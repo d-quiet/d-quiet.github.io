@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-41e994f9","path":"/tags/vant-weapp/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7c36c91a","path":"/tags/Nuxt3anzhuang/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{t as data};

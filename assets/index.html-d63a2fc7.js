@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-440c69e7","path":"/tags/monorepogongcheng/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{e as data};
