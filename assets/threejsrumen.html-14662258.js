@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-204cebce","path":"/blogs/webGL/threejsrumen.html","title":"ThreeJS入门","lang":"en-US","frontmatter":{"title":"ThreeJS入门","date":"2024/4/25","tags":["ThreeJS"],"categories":["WebGL"]},"headers":[],"git":{},"filePathRelative":"blogs/webGL/threejs入门.md"}');export{e as data};
